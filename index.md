@@ -1,1 +1,1 @@
-Syndeton Stake Pool
+Shelley Testnet
