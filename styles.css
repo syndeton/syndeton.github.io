@@ -4,13 +4,12 @@ body {
   background: radial-gradient(circle, rgba(168,204,237,1) 0%, rgba(0,17,33,1) 100%); 
   height: 99%;
   width: 99%;
-  ::-webkit-scrollbar { display: none; }
 }
 
 img {
     max-width: 100%;
   }
-
+.flex-container::-webkit-scrollbar { display: none; }
 .flex-container {
     display: flex;
     height: 100%;
