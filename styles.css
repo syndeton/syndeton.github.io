@@ -14,6 +14,7 @@ img {
     display: flex;
     height: 100%;
     margin: auto 5vh auto auto;
+    overflow: auto;
   }
 
 .logo {
