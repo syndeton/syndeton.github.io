@@ -9,12 +9,10 @@ body {
 img {
     max-width: 100%;
   }
-.flex-container::-webkit-scrollbar { display: none; }
 .flex-container {
     display: flex;
     height: 100%;
     margin: auto 5vh auto auto;
-    overflow: auto;
   }
 
 .logo {
